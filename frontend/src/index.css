@@ -1,0 +1,9 @@
+/* Reset defaults to prevent conflict with B2B dashboard layout */
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

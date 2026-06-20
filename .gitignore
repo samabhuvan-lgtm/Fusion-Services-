@@ -1,0 +1,8 @@
+﻿backend/node_modules
+frontend/node_modules
+backend/fusiondocs.db
+node_modules
+.DS_Store
+npm-debug.log*
+package-lock.json
+
